@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, my name is Alexandra Ermolaeva
+ 
 
-<!--
-**aleksaDub97/aleksaDub97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌍 About Me
+I'm computer science student at NRNU MEPHI studying Python and Machine Learning. Also I'm intrested in Data analysis and dara science, applied statistics, ML algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Projects
+ - Completed a project-based course from Samsung Innovation Campus “AI @ IT Academy,” and developed an Android application (Java) for plant disease and species recognition from photos (PyTorch, torch.jit)
+ - Participated in the “2024 EICON” conference with the paper “Plant Disease Detection Using Small Convolutional Neural Networks,” published in the IEEE Xplore Digital Library.
+
+## 🌱 I’m currently learning
+ - machine learning methods
+ - SQL
+ - statistics and its usage in hypothesis testing and A/B testing
